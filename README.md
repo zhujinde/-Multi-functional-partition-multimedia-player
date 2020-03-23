@@ -12,4 +12,4 @@
 音视频、图片播放：FFmpeg
 office：weboffice.OCX
 
-需手动安装运行环境：DirectX11和ffdshow
+需手动安装运行环境：DirectX11和ffdshow，以及安装插件weboffice.ocx
