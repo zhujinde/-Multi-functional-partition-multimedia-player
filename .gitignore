@@ -25,7 +25,8 @@
 *.la
 *.a
 *.lib
-#*.rar
+*.rar
+*.zip
 
 # Executables
 *.exe
