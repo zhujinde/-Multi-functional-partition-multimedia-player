@@ -13,3 +13,5 @@
 office：weboffice.OCX
 
 需手动安装运行环境：DirectX11和ffdshow，以及安装插件weboffice.ocx
+
+将环境安装完成，将所有代码文件导入vs工程文件中即可运行。
