@@ -8,9 +8,9 @@
 
 程序开发环境：64位win10 VS2010
 
-实现方式：
-图形界面：MFC
-音视频、图片播放：FFmpeg
+实现方式：  
+图形界面：MFC  
+音视频、图片播放：FFmpeg  
 office：weboffice.OCX
 
 需手动安装运行环境：DirectX11和ffdshow，以及安装插件weboffice.ocx
