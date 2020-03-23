@@ -6,9 +6,12 @@
 3）支持播放word、ppt等多种文件格式。
 4）播放控制功能。如播放、停止等。
 
+程序开发环境：64位win10 VS2010
+
 实现方式：
 音视频、图片播放：FFmpeg
 office：weboffice.OCX
 
-程序开发环境：64位win10 VS2010
-程序运行前需先安装所需环境————安装DirectX11和ffdshow底层文件，点击文件夹下.exe文件配置文件将自行安装完毕。
+需手动安装运行环境：DirectX11和ffdshow
+
+
